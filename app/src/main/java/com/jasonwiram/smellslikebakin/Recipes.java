@@ -1,8 +1,8 @@
 package com.jasonwiram.smellslikebakin;
 
 public class Recipes {
-    public static String[] names = new String[]{"Crepes","Pancakes","Scones","French Toast", "Muffins", "Waffles","Toast", "Banana Bread"
-            ,"German Pancakes","Beignets", "Blintzes", "Croissants", "Biscuits", "Cinnamon Rolls", "Coffee Cake", "Donut Holes", "Bagels", "English Muffin", "Baguette", "Danish"};
+    public static String[] names = new String[]{"Crepes", "Pancakes", "Scones", "French Toast", "Muffins", "Waffles", "Toast", "Banana Bread"
+            , "German Pancakes", "Beignets", "Blintzes", "Croissants", "Biscuits", "Cinnamon Rolls", "Coffee Cake", "Donut Holes", "Bagels", "English Muffin", "Baguette", "Danish"};
     public static int[] resourceIds = new int[]{R.drawable.crepes, R.drawable.pancakes, R.drawable.scones, R.drawable.french_toast,
             R.drawable.muffins, R.drawable.waffles, R.drawable.toast, R.drawable.banana_bread, R.drawable.german_pancakes,
             R.drawable.beignets, R.drawable.blintzes, R.drawable.croissants, R.drawable.biscuits, R.drawable.cinnamon_rolls,
